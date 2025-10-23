@@ -1,0 +1,275 @@
+[33mcommit f11658d5d63ae7ddc4bbe338d1e22d97852c3e21[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: root <root@ip-172-31-11-255.ap-south-1.compute.internal>
+Date:   Thu Oct 23 09:20:41 2025 +0000
+
+    fork
+
+[33mcommit 8f58785143bb244d080b06a08ba32bb623c64736[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 5ee8a04 f41f595
+Author: Sophiah Ho <anomal@users.noreply.github.com>
+Date:   Mon Jul 4 01:20:09 2022 -0400
+
+    Merge pull request #1464 from anomal/master
+    
+    moved broken nb to drafts
+
+[33mcommit f41f5953abaa6750dba82752041765d0f9412637[m
+Author: anomal <anomal@users.noreply.github.com>
+Date:   Mon Jul 4 01:14:56 2022 -0400
+
+    moved broken nb to drafts
+
+[33mcommit 5ee8a04bfae04ed37d8b01cdf1f7eeecf2b95467[m
+Merge: 7da01c2 d15f6cc
+Author: Sophiah Ho <anomal@users.noreply.github.com>
+Date:   Mon Dec 27 17:00:47 2021 -0500
+
+    Merge pull request #840 from anomal/archive-can-voc
+    
+    move canada voc notebook to _drafts
+
+[33mcommit d15f6cc7b2cf5cd7ba090fe66e3770778854abdb[m
+Author: anomal <anomal@users.noreply.github.com>
+Date:   Mon Dec 27 16:58:16 2021 -0500
+
+    move canada voc notebook to _drafts, because the orignal data source is no longer updated
+
+[33mcommit 7da01c2477c0691caf869d7401587dc85cacef29[m
+Merge: ef9ec0e ee6bba3
+Author: Hamel Husain <hamelsmu@github.com>
+Date:   Sun Dec 12 11:17:46 2021 -0800
+
+    Merge pull request #831 from mjvbz/master
+
+[33mcommit ee6bba30bd2a540c25a3ab0d439b194313f1adf9[m
+Author: Shon Santhosh <shonsanthosh1977@gmail.com>
+Date:   Tue Nov 23 10:34:21 2021 +0530
+
+    added  back to home
+
+[33mcommit 603643fc0037a4a7e0044f6027b0a97d5796b7cc[m
+Author: Shon Santhosh <shonsanthosh1977@gmail.com>
+Date:   Tue Nov 23 10:28:43 2021 +0530
+
+    Update 404.html
+
+[33mcommit ef9ec0ef8a57fb91f865f6bd36f6bec77cea9bab[m
+Merge: d19134e 2a60d1d
+Author: Sophiah Ho <anomal@users.noreply.github.com>
+Date:   Tue Jul 20 18:46:02 2021 -0400
+
+    Merge pull request #705 from KamalSinghKhanna/644
+    
+    fixes country names
+
+[33mcommit 2a60d1d9ce9bba21d690e21e06083758a9fee11c[m
+Author: kamalsinghkhanna <kamalsinghkhanna2706@gmail.com>
+Date:   Tue Jul 20 10:05:05 2021 +0530
+
+    fixes
+
+[33mcommit bd6ae45ea8c26d3965f3b57a5e941bd2467dade8[m
+Author: kamalsinghkhanna <kamalsinghkhanna2706@gmail.com>
+Date:   Mon Jul 19 11:04:38 2021 +0530
+
+    fixes country names
+
+[33mcommit d19134e5068ad1ed6c655ef07bd7a16478ef8d92[m
+Merge: 69954a5 a1ba8cf
+Author: Hamel Husain <hamelsmu@github.com>
+Date:   Sat Jul 17 07:53:43 2021 -0700
+
+    Merge pull request #704 from github/move-nb
+    
+    Update and rename _notebooks/2020-03-30-us-inflection.ipynb to _draft…
+
+[33mcommit a1ba8cf816b6f04213d91cfa84040b69a3f8f452[m
+Author: Hamel Husain <hamelsmu@github.com>
+Date:   Sat Jul 17 07:53:15 2021 -0700
+
+    Update and rename _notebooks/2020-03-30-us-inflection.ipynb to _drafts/2020-03-30-us-inflection.ipynb
+
+[33mcommit 69954a5e2d4f5388078e428dad126aa0b19feaa6[m
+Author: Hamel Husain <hamelsmu@github.com>
+Date:   Sat Jul 17 07:50:58 2021 -0700
+
+    Delete 2020-03-30-us-inflection.ipynb
+
+[33mcommit 348599450cbd32164a2da591b3804d580e5c77c6[m
+Merge: 84bdd84 6e9e9ff
+Author: Sophiah (Zing-Ming) <anomal@users.noreply.github.com>
+Date:   Wed May 19 01:01:29 2021 -0400
+
+    Merge pull request #639 from anomal/col-sort
+    
+    sort column order by latest date count
+
+[33mcommit 6e9e9ff6c6430d55b34a4aafb7a396cefc972b44[m
+Author: anomal <sophiah.ho@gmail.com>
+Date:   Wed May 19 01:00:34 2021 -0400
+
+    sort column order by latest date count
+
+[33mcommit 84bdd84666ff3509d7a3135df63c2d064fdf11fd[m
+Merge: a7c0e2c b16242c
+Author: Hamel Husain <hamelsmu@github.com>
+Date:   Sun May 16 14:54:04 2021 -0700
+
+    Merge pull request #637 from anomal/enable-canada-notebooks
+    
+    Revert "Update run_notebooks.sh"
+
+[33mcommit b16242cffd89faf9cd4c519d2da5db847132cdb1[m
+Author: anomal <sophiah.ho@gmail.com>
+Date:   Sun May 16 15:59:03 2021 -0400
+
+    Revert "Update run_notebooks.sh"
+    
+    This reverts commit 08a621410e2911a054a3622c3d9793c3d3726afe.
+
+[33mcommit a7c0e2cf220d9ee7c9b831397f90a2f2479c03b8[m
+Merge: fcf572c 08a6214
+Author: Hamel Husain <hamelsmu@github.com>
+Date:   Sun May 16 11:27:36 2021 -0700
+
+    Merge pull request #636 from github/hamelsmu-patch-3
+    
+    Ignore failing notebooks
+
+[33mcommit 08a621410e2911a054a3622c3d9793c3d3726afe[m
+Author: Hamel Husain <hamelsmu@github.com>
+Date:   Sun May 16 11:21:39 2021 -0700
+
+    Update run_notebooks.sh
+
+[33mcommit fcf572c9b2c4c2419bbfb7e2198db71884369754[m
+Merge: 681ef25 010b8fb
+Author: Sophiah (Zing-Ming) <anomal@users.noreply.github.com>
+Date:   Sat May 1 21:35:53 2021 -0400
+
+    Merge pull request #633 from anomal/master
+    
+    add description for tables
+
+[33mcommit 010b8fb044c169ab1261611785f60822fa99f246[m
+Author: anomal <sophiah.ho@gmail.com>
+Date:   Sat May 1 21:35:10 2021 -0400
+
+    add description for tables
+
+[33mcommit 681ef25cdd5824a3ba9fc8ad8492293058706e2d[m
+Merge: b72c348 bc8226c
+Author: Sophiah (Zing-Ming) <anomal@users.noreply.github.com>
+Date:   Sat May 1 21:06:43 2021 -0400
+
+    Merge pull request #632 from anomal/voc-tables
+    
+    Voc tables
+
+[33mcommit bc8226c4206b7f2fe3595af36502e4aa7fe49725[m
+Author: anomal <sophiah.ho@gmail.com>
+Date:   Sat May 1 21:05:44 2021 -0400
+
+    tables mvp
+
+[33mcommit 81e46c55118d2ae36b08bb4c8cb61ae00dd9591a[m
+Author: anomal <sophiah.ho@gmail.com>
+Date:   Sat May 1 20:07:47 2021 -0400
+
+    fix bug
+
+[33mcommit a48196bfad6dfe64be93962252d91d80d3b5a6eb[m
+Author: anomal <sophiah.ho@gmail.com>
+Date:   Sat May 1 20:04:03 2021 -0400
+
+    somewhat works
+
+[33mcommit b72c3482706e82cbf8475fba92b6fc8c8fcf664e[m
+Merge: 68f49fe 616bf06
+Author: Sophiah (Zing-Ming) <anomal@users.noreply.github.com>
+Date:   Sat May 1 14:57:13 2021 -0400
+
+    Merge pull request #631 from anomal/on-perf2
+    
+    On perf2
+
+[33mcommit 616bf06490688d5c4efb041c8257895c6a0a6d9d[m
+Author: anomal <sophiah.ho@gmail.com>
+Date:   Sat May 1 14:56:38 2021 -0400
+
+    reset img
+
+[33mcommit d236e7ffab9469a5b2179b51b34e707b84f93544[m
+Merge: 881067a 68f49fe
+Author: anomal <sophiah.ho@gmail.com>
+Date:   Sat May 1 14:42:41 2021 -0400
+
+    Merge branch 'master' into on-perf2
+
+[33mcommit 881067ae2d6812f5d5716d16ae2f1542e4bf315d[m
+Author: anomal <sophiah.ho@gmail.com>
+Date:   Sat May 1 14:35:21 2021 -0400
+
+    remove unnecessary display
+
+[33mcommit 68f49fe51be88fac62248ba824e425de2498abb4[m
+Merge: fc0413b 024382b
+Author: Sophiah (Zing-Ming) <anomal@users.noreply.github.com>
+Date:   Fri Apr 16 22:01:25 2021 -0400
+
+    Merge pull request #627 from anomal/on-perf
+    
+    remove animation to improve performance
+
+[33mcommit 024382bfbcda1540d57adf0ced0b86b877a59c0d[m
+Author: anomal <sophiah.ho@gmail.com>
+Date:   Fri Apr 16 22:00:25 2021 -0400
+
+    remove animation to improve performance
+
+[33mcommit fc0413bb8d46da1bb58d5de4205ef05b24b20b5f[m
+Merge: 3997b3d 66b7692
+Author: Sophiah (Zing-Ming) <anomal@users.noreply.github.com>
+Date:   Thu Apr 15 01:28:06 2021 -0400
+
+    Merge pull request #626 from anomal/voc-src
+    
+    data src via and remove unnecessary uppercase
+
+[33mcommit 66b769240b2c9bc398eec770831c8744f9cafb98[m
+Author: anomal <sophiah.ho@gmail.com>
+Date:   Thu Apr 15 01:27:19 2021 -0400
+
+    data src via and remove unnecessary uppercase
+
+[33mcommit 3997b3d26c44fdd75535d30381c75ccabd0eb7e8[m
+Merge: 927cd27 5d17be8
+Author: Sophiah (Zing-Ming) <anomal@users.noreply.github.com>
+Date:   Wed Apr 14 17:10:18 2021 -0400
+
+    Merge pull request #625 from anomal/voc-canada
+    
+    fix toc
+
+[33mcommit 5d17be84713c533bc2083524f898803083eefcd0[m
+Author: anomal <sophiah.ho@gmail.com>
+Date:   Wed Apr 14 17:09:33 2021 -0400
+
+    fix toc
+
+[33mcommit 927cd2763d0be900c7b4615a38101816662f96bc[m
+Merge: 2a8f2f4 8c3ecb7
+Author: Sophiah (Zing-Ming) <anomal@users.noreply.github.com>
+Date:   Wed Apr 14 03:18:40 2021 -0400
+
+    Merge pull request #624 from anomal/voc-canada-wide
+    
+    add canada-wide
+
+[33mcommit 8c3ecb7069a570d32a43ac72db5e74b1ed995a3a[m
+Author: anomal <sophiah.ho@gmail.com>
+Date:   Wed Apr 14 03:17:09 2021 -0400
+
+    add canada-wide
+
+[33mcommit 2a8f2f43b589b5adb57ebf212f60453bf7fee4ce
